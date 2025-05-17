@@ -12,3 +12,7 @@ ACCESS_TOKEN_SECRET="iheb1234"
 http://localhost:5050/api/user/{:USERTYPE}/CRUD 
 
 routes for all users are the same just the userType is different so u need t check server.js
+
+# Recommendation endpoint 
+it just gets user data...connect to the microservice...gives it the requested id....then comes back with response so u can show it in the
+(but lcode taa kl 9erd ghalet donc mch chykhdem)
