@@ -8,6 +8,6 @@ ACCESS_TOKEN_SECRET="iheb1234"
 **PS : ** lcode taa abdelaziz taa api fl python ghalet....base 9ah 9odemu f chat w hatu toul w meme pas fehmou...tw ghdwa nklmk w nchufuh
 
 
-#API
-http://localhost:5050/api/user/{:USER}/CRUD 
-check routes
+# API
+http://localhost:5050/api/user/{:USERTYPE}/CRUD 
+check routes for all users are the same just the userType is different
