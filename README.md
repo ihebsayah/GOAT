@@ -11,4 +11,4 @@ ACCESS_TOKEN_SECRET="iheb1234"
 # API
 http://localhost:5050/api/user/{:USERTYPE}/CRUD 
 
-check routes for all users are the same just the userType is different
+routes for all users are the same just the userType is different so u need t check server.js
