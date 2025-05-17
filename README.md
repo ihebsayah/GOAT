@@ -21,5 +21,7 @@ it just gets user data...connect to the microservice...gives it the requested id
 
 
 # last
-**run Project** : npm run dev
+**run Project** : 
+1/ npm install
+2/ npm run dev
 
